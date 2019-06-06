@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ID Social\n"
+"POT-Creation-Date: 2015-06-10 10:46-0500\n"
+"PO-Revision-Date: 2015-06-10 10:46-0500\n"
+"Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
+"Language-Team: IgnitionDeck <hello@virtuousgiant.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: idsocial-admin.php:6
+msgid "Social"
+msgstr ""
+
+#: idsocial.php:23
+msgid ""
+"IgnitionDeck Social requires installation of the IgnitionDeck Framework "
+"prior to activation."
+msgstr ""
+
+#: idsocial.php:23
+msgid "Click here to install"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:2
+msgid "Social Settings"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:4
+msgid "Support"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:5
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:12
+msgid "IgnitionDeck Social Settings"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:15
+msgid "Social Login"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:17
+msgid "Facebook Application ID"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:19
+msgid "Create App"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:22
+msgid "Website Settings"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:24
+msgid "Home Image for Facebook"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:25
+msgid "Select Image"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:33
+msgid "Social Sharing Settings"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:38
+msgid "Facebook on Project Page"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:40
+msgid "Want people to share via Facebook from your project page? Use this."
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:44
+msgid "Twitter on Project Page"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:46
+msgid "Want people to share via Twitter from your project page? Use this. "
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:50
+msgid "LinkedIn on Project Page"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:52
+msgid "Want people to share via LinkedIn from your project page? Use this. "
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:56
+msgid "Google+ on Project Page"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:58
+msgid "Want people to share via Google+ from your project page? Use this. "
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:62
+msgid "Pinterest on Project Page"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:64
+msgid "Want people to share via Pinterest from your project page? Use this. "
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:69
+msgid "Enable sharing on posts"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:73
+msgid "Enable sharing on pages"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:80
+msgid "Theme 500 Social Settings"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:81
+msgid "Check to show on theme home page, uncheck to hide."
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:84
+msgid "Twitter"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:87
+msgid "Twitter Username"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:92
+msgid "Facebook"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:95
+msgid "Facebook Username"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:100
+msgid "Google+"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:103
+msgid "Google+ User Number"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:108
+msgid "LinkedIn"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:111
+msgid "LinkedIn Username"
+msgstr ""
+
+#: templates/admin/_settingsMenu.php:118
+msgid "Save"
+msgstr ""

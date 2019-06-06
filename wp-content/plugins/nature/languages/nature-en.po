@@ -1,0 +1,1318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nature\n"
+"POT-Creation-Date: 2015-04-07 16:31+0330\n"
+"PO-Revision-Date: 2016-08-12 20:38+0430\n"
+"Last-Translator: M3DHATI <m3dhati@gmail.com>\n"
+"Language-Team: medhati <m3dhati@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/config.php:91
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/config.php:100 admin/config.php:104
+msgid "Current theme preview"
+msgstr ""
+
+#: admin/config.php:111
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: admin/config.php:112
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/config.php:113
+msgid "Tags"
+msgstr ""
+
+#: admin/config.php:118
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: admin/config.php:118
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: admin/config.php:237
+msgid "Like us on Facebook"
+msgstr ""
+
+#: admin/config.php:242
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: admin/config.php:247
+msgid "Follow us on Themeforest"
+msgstr ""
+
+#: admin/config.php:252
+msgid "Support Section"
+msgstr ""
+
+#: admin/config.php:257
+msgid "Support Email"
+msgstr ""
+
+#: admin/config.php:262
+msgid ""
+"<a href=\"http://support.pooyaa.com/\" target=\"_blank\" class=\"button"
+"\">Support Section</a> <a href=\"mailto:support@pooyaa.com\" target=\"_blank"
+"\" class=\"button\">Support Email</a>"
+msgstr ""
+
+#: admin/config.php:265
+msgid "<p>All right reserved for nature Plugin 2015</p>"
+msgstr ""
+
+#: admin/inc/social/social.php:86 admin/inc/social/social.php:117
+msgid "Label"
+msgstr ""
+
+#: admin/inc/social/social.php:87 admin/inc/social/social.php:119
+msgid "Link"
+msgstr ""
+
+#: admin/inc/social/social.php:90 admin/inc/social/social.php:123
+msgid "Select an Icon"
+msgstr ""
+
+#: admin/inc/social/social.php:108 admin/inc/social/social.php:142
+msgid "Delete Link"
+msgstr ""
+
+#: admin/inc/social/social.php:145
+msgid "Add Link"
+msgstr ""
+
+#: admin/sections/background.php:4
+msgid "Background Settings"
+msgstr ""
+
+#: admin/sections/background.php:5
+msgid ""
+"<strong>Note</strong>: When you choose a background type. Please disable "
+"others backgrounds."
+msgstr ""
+
+#: admin/sections/background.php:13
+msgid "Red Origami Background"
+msgstr ""
+
+#: admin/sections/background.php:40
+msgid "Green Origami Background"
+msgstr ""
+
+#: admin/sections/background.php:67
+msgid "Fantasy Background"
+msgstr ""
+
+#: admin/sections/background.php:78 admin/sections/background.php:104
+#: admin/sections/background.php:157 admin/sections/background.php:180
+#: admin/sections/background.php:397 admin/sections/background.php:422
+#: admin/sections/background.php:596 admin/sections/background.php:620
+msgid "Background Image"
+msgstr ""
+
+#: admin/sections/background.php:80 admin/sections/background.php:106
+#: admin/sections/background.php:158 admin/sections/background.php:182
+#: admin/sections/background.php:399 admin/sections/background.php:424
+#: admin/sections/background.php:598 admin/sections/background.php:622
+msgid "Select the images you want in the background"
+msgstr ""
+
+#: admin/sections/background.php:93
+msgid "Bubble Background"
+msgstr ""
+
+#: admin/sections/background.php:118
+msgid "Gradiant Background"
+msgstr ""
+
+#: admin/sections/background.php:129
+msgid "create gradient 1 from"
+msgstr ""
+
+#: admin/sections/background.php:136 admin/sections/background.php:150
+msgid "to"
+msgstr ""
+
+#: admin/sections/background.php:143
+msgid "create gradient 2 from"
+msgstr ""
+
+#: admin/sections/background.php:169
+msgid "Static Image Background"
+msgstr ""
+
+#: admin/sections/background.php:193
+msgid "Google Map Background"
+msgstr ""
+
+#: admin/sections/background.php:204
+msgid "Latitude"
+msgstr ""
+
+#: admin/sections/background.php:205 admin/sections/background.php:212
+msgid ""
+"You can find your custom map address from this site : http://ctrlq.org/maps/"
+"address/"
+msgstr ""
+
+#: admin/sections/background.php:211
+msgid "Longitude"
+msgstr ""
+
+#: admin/sections/background.php:225
+msgid "Parallax Background"
+msgstr ""
+
+#: admin/sections/background.php:236
+msgid "Image 1"
+msgstr ""
+
+#: admin/sections/background.php:249
+msgid "Speed 1"
+msgstr ""
+
+#: admin/sections/background.php:255
+msgid "Image 2"
+msgstr ""
+
+#: admin/sections/background.php:268
+msgid "Speed 2"
+msgstr ""
+
+#: admin/sections/background.php:274
+msgid "Image 3"
+msgstr ""
+
+#: admin/sections/background.php:287
+msgid "Speed 3"
+msgstr ""
+
+#: admin/sections/background.php:293
+msgid "Image 4"
+msgstr ""
+
+#: admin/sections/background.php:306
+msgid "Speed 4"
+msgstr ""
+
+#: admin/sections/background.php:319
+msgid "Pattern Background"
+msgstr ""
+
+#: admin/sections/background.php:330
+msgid "Pattern Preset"
+msgstr ""
+
+#: admin/sections/background.php:331
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/sections/background.php:373
+msgid "Custom Pattern"
+msgstr ""
+
+#: admin/sections/background.php:375
+msgid "Select the images you want in the pattern"
+msgstr ""
+
+#: admin/sections/background.php:386
+msgid "Rain Background"
+msgstr ""
+
+#: admin/sections/background.php:411
+msgid "Snow Background"
+msgstr ""
+
+#: admin/sections/background.php:436
+msgid "Slider Background"
+msgstr ""
+
+#: admin/sections/background.php:447
+msgid "Slideshow Images"
+msgstr ""
+
+#: admin/sections/background.php:448
+msgid "Select the images you want in the slideshow"
+msgstr ""
+
+#: admin/sections/background.php:460
+msgid "Solid Background"
+msgstr ""
+
+#: admin/sections/background.php:471
+msgid "Color"
+msgstr ""
+
+#: admin/sections/background.php:472
+msgid "Select the color you want in the background"
+msgstr ""
+
+#: admin/sections/background.php:486
+msgid "Video Background"
+msgstr ""
+
+#: admin/sections/background.php:497
+msgid "Video File - MP4"
+msgstr ""
+
+#: admin/sections/background.php:499
+msgid ""
+"H.264 (mp4) video format file. This one is required because we use it to "
+"fall back to Flash playback when HTML5 video support is missing. For "
+"example, Firefox only supports this format natively on Windows so on other "
+"systems it will fallback to Flash playback which is a bit slower."
+msgstr ""
+
+#: admin/sections/background.php:504
+msgid "Video File - WebM"
+msgstr ""
+
+#: admin/sections/background.php:506
+msgid ""
+"Optional WebM format. WebM files are generally smaller and faster than H.264 "
+"and are played by Chrome, Firefox, Opera and Android browsers (which also "
+"support H.264)."
+msgstr ""
+
+#: admin/sections/background.php:511
+msgid "Video File - OGG"
+msgstr ""
+
+#: admin/sections/background.php:513
+msgid ""
+"Optional OGG format. OGG Video is optional but useful because it’s played "
+"natively by Firefox on OSX and Linux."
+msgstr ""
+
+#: admin/sections/background.php:518 admin/sections/background.php:571
+msgid "Video Fallback Image"
+msgstr ""
+
+#: admin/sections/background.php:520 admin/sections/background.php:573
+msgid ""
+"Fallback image for browsers that can not play video (such as mobile devices)."
+msgstr ""
+
+#: admin/sections/background.php:532
+msgid "Youtube Background"
+msgstr ""
+
+#: admin/sections/background.php:543
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/sections/background.php:544
+msgid "The URL of the Youtube Video."
+msgstr ""
+
+#: admin/sections/background.php:549
+msgid "Youtube Quality"
+msgstr ""
+
+#: admin/sections/background.php:550
+msgid "you can choose your quality video youtube"
+msgstr ""
+
+#: admin/sections/background.php:564
+msgid "YouTube Video - Start at"
+msgstr ""
+
+#: admin/sections/background.php:565
+msgid ""
+"If you dont’t want the video to start from the very beginning, enter the "
+"time offset in seconds."
+msgstr ""
+
+#: admin/sections/background.php:585
+msgid "Star Background"
+msgstr ""
+
+#: admin/sections/background.php:609
+msgid "Cloud Background"
+msgstr ""
+
+#: admin/sections/blog.php:3
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/sections/blog.php:4
+msgid ""
+"This can be accessed by using the <strong>[nature-blog-posts]</strong> "
+"shortcode in your pages."
+msgstr ""
+
+#: admin/sections/blog.php:15
+msgid "Blog Icon"
+msgstr ""
+
+#: admin/sections/blog.php:16
+msgid ""
+"choose your blog icon for this section <strong>[nature-blog-icon]</strong>"
+msgstr ""
+
+#: admin/sections/blog.php:24
+msgid "Post Count"
+msgstr ""
+
+#: admin/sections/blog.php:25
+msgid "The number of posts to display on Blog page"
+msgstr ""
+
+#: admin/sections/blog.php:35
+msgid "Post Type"
+msgstr ""
+
+#: admin/sections/blog.php:36
+msgid "For properly working: We offer use the default (Posts)."
+msgstr ""
+
+#: admin/sections/blog.php:43
+msgid "Post Category"
+msgstr ""
+
+#: admin/sections/blog.php:44
+msgid "Please choose the appropriate category."
+msgstr ""
+
+#: admin/sections/contact.php:3
+msgid "Contact Settings"
+msgstr ""
+
+#: admin/sections/contact.php:4
+msgid ""
+"Settings for the Contact Form. It can be displayed by using the "
+"<strong>[nature-contact-form]</strong> shortcode."
+msgstr ""
+
+#: admin/sections/contact.php:10
+msgid "Target E-mail Address"
+msgstr ""
+
+#: admin/sections/contact.php:11
+msgid ""
+"This is the email address where you’ll receive the contact form messages"
+msgstr ""
+
+#: admin/sections/contact.php:12
+msgid ""
+"NOTE: you must use email service for this filed for example use of gmail,"
+"yahoo,hotmail and etc..."
+msgstr ""
+
+#: admin/sections/contact.php:18
+msgid "TO Name "
+msgstr ""
+
+#: admin/sections/contact.php:19
+msgid "Enter your name"
+msgstr ""
+
+#: admin/sections/contact.php:25
+msgid "E-mail Subject Prefix"
+msgstr ""
+
+#: admin/sections/contact.php:26
+msgid "Prefix for the email subject. Useful for filtering mail"
+msgstr ""
+
+#: admin/sections/contact.php:32
+msgid "Name Field Label"
+msgstr ""
+
+#: admin/sections/contact.php:38 admin/sections/subscribe.php:19
+msgid "Email Field Label"
+msgstr ""
+
+#: admin/sections/contact.php:45
+msgid "Phone Field Label"
+msgstr ""
+
+#: admin/sections/contact.php:51
+msgid "Message Field Label"
+msgstr ""
+
+#: admin/sections/contact.php:57 admin/sections/subscribe.php:25
+msgid "Button Label"
+msgstr ""
+
+#: admin/sections/contact.php:66
+msgid "Contact Info"
+msgstr ""
+
+#: admin/sections/contact.php:67
+msgid ""
+"These settings affect the contact forms. It can be displayed by using the "
+"<strong>[nature-contact-box]</strong> shortcode."
+msgstr ""
+
+#: admin/sections/contact.php:75
+msgid "Contact BOX 1"
+msgstr ""
+
+#: admin/sections/contact.php:81 admin/sections/contact.php:108
+#: admin/sections/contact.php:134
+msgid "Text"
+msgstr ""
+
+#: admin/sections/contact.php:87 admin/sections/contact.php:114
+#: admin/sections/contact.php:140 admin/sections/service.php:49
+#: admin/sections/service.php:85 admin/sections/service.php:121
+#: admin/sections/service.php:157 admin/sections/service.php:209
+#: admin/sections/service.php:245 admin/sections/service.php:282
+#: admin/sections/service.php:318 admin/sections/subscribe.php:10
+msgid "Icon"
+msgstr ""
+
+#: admin/sections/contact.php:102
+msgid "Contact BOX 2"
+msgstr ""
+
+#: admin/sections/contact.php:128
+msgid "Contact BOX 3"
+msgstr ""
+
+#: admin/sections/content.php:4
+msgid "Page Content"
+msgstr ""
+
+#: admin/sections/content.php:5
+msgid ""
+"\n"
+"\t\tIn this section you can edit the content of your pages.\n"
+"\t\t<p>The following shortcodes are available:</p>\n"
+"\t\t<ul>\n"
+"\t\t\t<li><strong>[nature-logo]</strong> : Displays the logo as configured "
+"in the Main Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-text-slider]</strong> : Displays the slider as "
+"configured in the Main Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-description]</strong> : Displays the Live Heart as "
+"configured in the Main Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-countdown-counter]</strong> : Displays the "
+"countdown timer as configured in the Countdown Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-subscribe-form]</strong> : Displays the \"Get "
+"Notified\" subscription form as configured in the Subscribe Settings section."
+"</li>\n"
+"\t\t\t<li><strong>[nature-social]</strong> : Displays the \"Get Notified\" "
+"subscription form as configured in the Subscribe Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-contact-box]</strong> : Displays the contact info "
+"(phone, e-mail, etc.) as configured in the Contact Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-contact-form]</strong> : Displays the contact form "
+"as configured in the Contact Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-blog-posts]</strong> : Displays the blog posts as "
+"configured in the Blog Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-service-boxes]</strong> : Displays the service "
+"boxes as configured in the Service Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-about-team]</strong> : Displays the teams as "
+"configured in the Team Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-blog-icon]</strong> : Displays the blog icon as "
+"configured in the Blog Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-subscribe-icon]</strong> : Displays the subscribe "
+"icon as configured in the Subscribe Settings section.</li>\n"
+"\t\t\t<li><strong>[nature-countdown-icon]</strong> : Displays the countdown "
+"icon as configured in the Countdown Settings section.</li>\n"
+"\t\t</ul>\n"
+"\t"
+msgstr ""
+
+#: admin/sections/content.php:31
+msgid "Home Page Content"
+msgstr ""
+
+#: admin/sections/content.php:32
+msgid ""
+"Choose whether or not you want the home page and button to be displayed."
+msgstr ""
+
+#: admin/sections/content.php:54
+msgid "Home Page label"
+msgstr ""
+
+#: admin/sections/content.php:55
+msgid "your home Page label"
+msgstr ""
+
+#: admin/sections/content.php:62
+msgid "Home page arrows"
+msgstr ""
+
+#: admin/sections/content.php:63 admin/sections/content.php:254
+#: admin/sections/content.php:445 admin/sections/content.php:636
+#: admin/sections/content.php:829 admin/sections/content.php:1021
+#: admin/sections/content.php:1212
+msgid "choose your custom arrows"
+msgstr ""
+
+#: admin/sections/content.php:76 admin/sections/content.php:267
+#: admin/sections/content.php:458 admin/sections/content.php:649
+#: admin/sections/content.php:842 admin/sections/content.php:1034
+#: admin/sections/content.php:1225
+msgid "Top arrow icon"
+msgstr ""
+
+#: admin/sections/content.php:85 admin/sections/content.php:276
+#: admin/sections/content.php:467 admin/sections/content.php:658
+#: admin/sections/content.php:851 admin/sections/content.php:1043
+#: admin/sections/content.php:1234
+msgid "Top arrow label"
+msgstr ""
+
+#: admin/sections/content.php:92 admin/sections/content.php:283
+#: admin/sections/content.php:474 admin/sections/content.php:665
+#: admin/sections/content.php:858 admin/sections/content.php:1050
+#: admin/sections/content.php:1241
+msgid "Bottom arrow icon"
+msgstr ""
+
+#: admin/sections/content.php:101 admin/sections/content.php:292
+#: admin/sections/content.php:483 admin/sections/content.php:674
+#: admin/sections/content.php:867 admin/sections/content.php:1059
+#: admin/sections/content.php:1250
+msgid "Bottom arrow label"
+msgstr ""
+
+#: admin/sections/content.php:108 admin/sections/content.php:299
+#: admin/sections/content.php:490 admin/sections/content.php:681
+#: admin/sections/content.php:874 admin/sections/content.php:1066
+#: admin/sections/content.php:1257
+msgid "Left arrow icon"
+msgstr ""
+
+#: admin/sections/content.php:117 admin/sections/content.php:308
+#: admin/sections/content.php:499 admin/sections/content.php:690
+#: admin/sections/content.php:883 admin/sections/content.php:1075
+#: admin/sections/content.php:1266
+msgid "Left arrow label"
+msgstr ""
+
+#: admin/sections/content.php:124 admin/sections/content.php:315
+#: admin/sections/content.php:506 admin/sections/content.php:697
+#: admin/sections/content.php:890 admin/sections/content.php:1082
+#: admin/sections/content.php:1273
+msgid "Right arrow icon"
+msgstr ""
+
+#: admin/sections/content.php:133 admin/sections/content.php:324
+#: admin/sections/content.php:515 admin/sections/content.php:706
+#: admin/sections/content.php:899 admin/sections/content.php:1091
+#: admin/sections/content.php:1282
+msgid "Right arrow label"
+msgstr ""
+
+#: admin/sections/content.php:141 admin/sections/content.php:332
+#: admin/sections/content.php:523 admin/sections/content.php:714
+#: admin/sections/content.php:907 admin/sections/content.php:1099
+#: admin/sections/content.php:1290
+msgid "Blocks"
+msgstr ""
+
+#: admin/sections/content.php:142 admin/sections/content.php:333
+#: admin/sections/content.php:524 admin/sections/content.php:715
+#: admin/sections/content.php:908 admin/sections/content.php:1100
+#: admin/sections/content.php:1291
+msgid "Select a block."
+msgstr ""
+
+#: admin/sections/content.php:224
+msgid "Contact Page Content"
+msgstr ""
+
+#: admin/sections/content.php:225
+msgid ""
+"Choose whether or not you want the contact page and button to be displayed."
+msgstr ""
+
+#: admin/sections/content.php:245
+msgid "Contact Page label"
+msgstr ""
+
+#: admin/sections/content.php:246
+msgid "your Contact Page label"
+msgstr ""
+
+#: admin/sections/content.php:253
+msgid "Contact page arrows"
+msgstr ""
+
+#: admin/sections/content.php:415
+msgid "Subscribe Page Content"
+msgstr ""
+
+#: admin/sections/content.php:416
+msgid ""
+"Choose whether or not you want the subscribe page and button to be displayed."
+msgstr ""
+
+#: admin/sections/content.php:436
+msgid "Subscribe page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:437
+msgid "your subscribe page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:444
+msgid "subscribe page arrows"
+msgstr ""
+
+#: admin/sections/content.php:606
+msgid "Service Page Content"
+msgstr ""
+
+#: admin/sections/content.php:607
+msgid ""
+"Choose whether or not you want the service page and button to be displayed."
+msgstr ""
+
+#: admin/sections/content.php:627
+msgid "Service page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:628
+msgid "your service page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:635
+msgid "service page arrows"
+msgstr ""
+
+#: admin/sections/content.php:799
+msgid "Countdown Page Content"
+msgstr ""
+
+#: admin/sections/content.php:800
+msgid ""
+"Choose whether or not you want the countdown page and button to be displayed"
+msgstr ""
+
+#: admin/sections/content.php:820
+msgid "Countdown page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:821
+msgid "your countdown page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:828
+msgid "countdown page arrows"
+msgstr ""
+
+#: admin/sections/content.php:991
+msgid "Blog Page Content"
+msgstr ""
+
+#: admin/sections/content.php:992
+msgid "Choose whether or not you want the blog page and button to be displayed"
+msgstr ""
+
+#: admin/sections/content.php:1012
+msgid "Blog page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:1013
+msgid "your blog page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:1020
+msgid "blog page arrows"
+msgstr ""
+
+#: admin/sections/content.php:1182
+msgid "About Page Content"
+msgstr ""
+
+#: admin/sections/content.php:1183
+msgid ""
+"Choose whether or not you want the about page and button to be displayed"
+msgstr ""
+
+#: admin/sections/content.php:1203
+msgid "About page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:1204
+msgid "your about page arrow label"
+msgstr ""
+
+#: admin/sections/content.php:1211
+msgid "about page arrows"
+msgstr ""
+
+#: admin/sections/countdown.php:3
+msgid "Countdown Settings"
+msgstr ""
+
+#: admin/sections/countdown.php:4
+msgid ""
+"This can be accessed by using the <strong>[nature-countdown-counter]</"
+"strong> shortcode in your pages."
+msgstr ""
+
+#: admin/sections/countdown.php:15
+msgid "Countdown Icon"
+msgstr ""
+
+#: admin/sections/countdown.php:16
+msgid ""
+"choose your countdown icon for this section <strong>[nature-countdown-icon]</"
+"strong>"
+msgstr ""
+
+#: admin/sections/countdown.php:24
+msgid "Countdown Date"
+msgstr ""
+
+#: admin/sections/countdown.php:25
+msgid "Date that we are counting down to mm/dd/yyyy"
+msgstr ""
+
+#: admin/sections/countdown.php:31
+msgid "Labels"
+msgstr ""
+
+#: admin/sections/countdown.php:32
+msgid "The labels of the individual countdown items. Comma separated list."
+msgstr ""
+
+#: admin/sections/export.php:3
+msgid "Import / Export"
+msgstr ""
+
+#: admin/sections/export.php:4
+msgid "Import and Export your nature settings from file, text or URL."
+msgstr ""
+
+#: admin/sections/main.php:4
+msgid "Main Settings"
+msgstr ""
+
+#: admin/sections/main.php:12
+msgid "plugin mode"
+msgstr ""
+
+#: admin/sections/main.php:13
+msgid "Choose the mode in which you want the plugin to operate in."
+msgstr ""
+
+#: admin/sections/main.php:14
+msgid ""
+"<ul><li><strong>Off</strong> - nature will be switch off.</"
+"li><li><strong>Coming Soon Mode</strong> - <strong>JUST</strong> Visitors "
+"will see nature while you work on your theme (Administrator can not see).</"
+"li> "
+msgstr ""
+
+#: admin/sections/main.php:27
+msgid "Style Type"
+msgstr ""
+
+#: admin/sections/main.php:28
+msgid "Choose your style / light or dark"
+msgstr ""
+
+#: admin/sections/main.php:41
+msgid "Skin Color"
+msgstr ""
+
+#: admin/sections/main.php:42
+msgid "Choose your skin Color"
+msgstr ""
+
+#: admin/sections/main.php:63
+msgid "Logo Type"
+msgstr ""
+
+#: admin/sections/main.php:64
+msgid ""
+"This can be accessed by using the <strong>[nature-logo]</strong> shortcode "
+"in your pages."
+msgstr ""
+
+#: admin/sections/main.php:76
+msgid "Logo Image"
+msgstr ""
+
+#: admin/sections/main.php:84
+msgid "Logo Title"
+msgstr ""
+
+#: admin/sections/main.php:94
+msgid "Logo Subtitle"
+msgstr ""
+
+#: admin/sections/main.php:103
+msgid "Text Slider"
+msgstr ""
+
+#: admin/sections/main.php:104
+msgid ""
+"This can be accessed by using the <strong>[nature-text-slider]</strong> "
+"shortcode in your pages."
+msgstr ""
+
+#: admin/sections/main.php:117
+msgid "Coming Soon"
+msgstr ""
+
+#: admin/sections/main.php:118
+msgid ""
+"This can be accessed by using the <strong>[nature-description]</strong> "
+"shortcode in your pages."
+msgstr ""
+
+#: admin/sections/main.php:127
+msgid "Favicon"
+msgstr ""
+
+#: admin/sections/main.php:128
+msgid "Use a 16x16 .ico or .png file."
+msgstr ""
+
+#: admin/sections/main.php:129
+msgid "This is the icon displayed in the browser title bar."
+msgstr ""
+
+#: admin/sections/main.php:135
+msgid "IOS icon"
+msgstr ""
+
+#: admin/sections/main.php:136
+msgid "Make sure that your website is prepared for mobile browsing."
+msgstr ""
+
+#: admin/sections/main.php:147
+msgid "classic iPhone / iPod icon"
+msgstr ""
+
+#: admin/sections/main.php:148
+msgid "Use a .png file."
+msgstr ""
+
+#: admin/sections/main.php:149 admin/sections/main.php:158
+#: admin/sections/main.php:167 admin/sections/main.php:176
+#: admin/sections/main.php:185
+msgid "This is the icon to save your webpage to the home screen."
+msgstr ""
+
+#: admin/sections/main.php:156
+msgid "iPad icon"
+msgstr ""
+
+#: admin/sections/main.php:157
+msgid "Use a 76x76 .png file."
+msgstr ""
+
+#: admin/sections/main.php:165
+msgid "iPhone / iPod Retina icon"
+msgstr ""
+
+#: admin/sections/main.php:166
+msgid "Use a 120x120 .png file."
+msgstr ""
+
+#: admin/sections/main.php:174
+msgid "iPad Retina icon"
+msgstr ""
+
+#: admin/sections/main.php:175
+msgid "Use a 152×152 .png file."
+msgstr ""
+
+#: admin/sections/main.php:183
+msgid "iPhone 6 Plus icon"
+msgstr ""
+
+#: admin/sections/main.php:184
+msgid "Use a 180×180 .png file."
+msgstr ""
+
+#: admin/sections/main.php:198
+msgid "Mouse Scroll Effect"
+msgstr ""
+
+#: admin/sections/main.php:199
+msgid ""
+"This fun effect is great if you happen to have a lot users who utilize a "
+"mousewheel."
+msgstr ""
+
+#: admin/sections/main.php:206
+msgid "Load Styles and Scripts from other Plugins"
+msgstr ""
+
+#: admin/sections/main.php:207
+msgid ""
+"<p>Choose whether or not to load CSS and Javascript files enqueued by the "
+"active theme and other active plugins.</p><p>This will allow you to use any "
+"shortcodes that other plugins provide but <strong>may break nature.</"
+"strong></p>"
+msgstr ""
+
+#: admin/sections/main.php:214
+msgid "custom css"
+msgstr ""
+
+#: admin/sections/main.php:215
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/sections/main.php:225
+msgid "Custom HTML"
+msgstr ""
+
+#: admin/sections/main.php:226
+msgid "Paste your HTML code here."
+msgstr ""
+
+#: admin/sections/main.php:227
+msgid ""
+"Inserts HTML before the closing </body> tag. For example, it can be used to "
+"add your Google Analytics code."
+msgstr ""
+
+#: admin/sections/seo.php:4
+msgid "Seo Settings"
+msgstr ""
+
+#: admin/sections/seo.php:12
+msgid "Site Title"
+msgstr ""
+
+#: admin/sections/seo.php:19
+msgid "Site Description"
+msgstr ""
+
+#: admin/sections/seo.php:26
+msgid "Site keywords"
+msgstr ""
+
+#: admin/sections/seo.php:34
+msgid "Webmaster Tools"
+msgstr ""
+
+#: admin/sections/seo.php:35
+msgid ""
+"You can use the boxes below to verify with the different Webmaster Tools, if "
+"your site is already verified, you can just forget about these. Enter the "
+"verify meta values for"
+msgstr ""
+
+#: admin/sections/seo.php:42
+msgid ""
+"<a href=\"https://www.google.com/webmasters/verification/verification?"
+"hl=en&siteUrl="
+msgstr ""
+
+#: admin/sections/seo.php:50
+msgid "<a href=\"http://www.bing.com/webmaster/?rfp=1#/Dashboard/?url="
+msgstr ""
+
+#: admin/sections/seo.php:58
+msgid ""
+"<a href=\"http://www.alexa.com/siteowners/claim\">Alexa Verification ID</a>"
+msgstr ""
+
+#: admin/sections/seo.php:66
+msgid ""
+"<a href=\"https://help.pinterest.com/entries/22488487-Verify-with-HTML-meta-"
+"tags\">Pinterest</a>"
+msgstr ""
+
+#: admin/sections/seo.php:74
+msgid ""
+"<a href=\"http://help.yandex.com/webmaster/service/rights.xml#how-to"
+"\">Yandex Webmaster Tools</a>"
+msgstr ""
+
+#: admin/sections/seo.php:87
+msgid "Social Tools"
+msgstr ""
+
+#: admin/sections/seo.php:88
+msgid ""
+"It is a way for website owners to send structured data to search engine "
+"robots. helping them to understand your content and create well-presented "
+"search results."
+msgstr ""
+
+#: admin/sections/seo.php:94
+msgid "Google Author profile"
+msgstr ""
+
+#: admin/sections/seo.php:95
+msgid ""
+"If you have a Google+ profile , add that URL here and link it on your Google"
+"+ profile's about page."
+msgstr ""
+
+#: admin/sections/seo.php:104
+msgid "Google Publisher Page"
+msgstr ""
+
+#: admin/sections/seo.php:105
+msgid ""
+"If you have a Google+ page for your business, add that URL here and link it "
+"on your Google+ page's about page."
+msgstr ""
+
+#: admin/sections/seo.php:114
+msgid "Facebook Page URL"
+msgstr ""
+
+#: admin/sections/seo.php:123 admin/sections/seo.php:175
+#: admin/sections/service.php:34 admin/sections/service.php:70
+#: admin/sections/service.php:106 admin/sections/service.php:142
+#: admin/sections/service.php:194 admin/sections/service.php:230
+#: admin/sections/service.php:266 admin/sections/service.php:303
+msgid "Title"
+msgstr ""
+
+#: admin/sections/seo.php:124
+msgid ""
+"These is the title used in the Open Graph meta tags on the front page of "
+"your site."
+msgstr ""
+
+#: admin/sections/seo.php:132 admin/sections/seo.php:184
+#: admin/sections/service.php:41 admin/sections/service.php:77
+#: admin/sections/service.php:113 admin/sections/service.php:149
+#: admin/sections/service.php:201 admin/sections/service.php:237
+#: admin/sections/service.php:274 admin/sections/service.php:310
+msgid "Description"
+msgstr ""
+
+#: admin/sections/seo.php:133
+msgid ""
+"These is the  description used in the Open Graph meta tags on the front page "
+"of your site."
+msgstr ""
+
+#: admin/sections/seo.php:141 admin/sections/seo.php:193
+msgid "Image"
+msgstr ""
+
+#: admin/sections/seo.php:142
+msgid ""
+"These is the image used in the Open Graph meta tags on the front page of "
+"your site."
+msgstr ""
+
+#: admin/sections/seo.php:150
+msgid "Facebook page ID"
+msgstr ""
+
+#: admin/sections/seo.php:158
+msgid "Facebook app ID"
+msgstr ""
+
+#: admin/sections/seo.php:167
+msgid "Site Twitter Username"
+msgstr ""
+
+#: admin/sections/seo.php:176
+msgid "Add title to Twitter card meta data."
+msgstr ""
+
+#: admin/sections/seo.php:185
+msgid "Add description to Twitter card meta data."
+msgstr ""
+
+#: admin/sections/seo.php:194
+msgid "Add image to Twitter card meta data."
+msgstr ""
+
+#: admin/sections/service.php:3
+msgid "Service Settings"
+msgstr ""
+
+#: admin/sections/service.php:4
+msgid ""
+"This can be accessed by using the <strong>[nature-service-boxes]</strong> "
+"shortcode in your pages."
+msgstr ""
+
+#: admin/sections/service.php:19
+msgid "Left Column"
+msgstr ""
+
+#: admin/sections/service.php:20
+msgid "The content of the page that column in from the left"
+msgstr ""
+
+#: admin/sections/service.php:28
+msgid "Left BOX 1"
+msgstr ""
+
+#: admin/sections/service.php:63
+msgid "Left BOX 2"
+msgstr ""
+
+#: admin/sections/service.php:99
+msgid "Left BOX 3"
+msgstr ""
+
+#: admin/sections/service.php:135
+msgid "Left BOX 4"
+msgstr ""
+
+#: admin/sections/service.php:178
+msgid "Right Column"
+msgstr ""
+
+#: admin/sections/service.php:179
+msgid "The content of the page that column in from the right"
+msgstr ""
+
+#: admin/sections/service.php:187
+msgid "Right BOX 1"
+msgstr ""
+
+#: admin/sections/service.php:223
+msgid "Right BOX 2"
+msgstr ""
+
+#: admin/sections/service.php:259
+msgid "Right BOX 3"
+msgstr ""
+
+#: admin/sections/service.php:296
+msgid "Right BOX 4"
+msgstr ""
+
+#: admin/sections/subscribe.php:3
+msgid "Subscribe Settings"
+msgstr ""
+
+#: admin/sections/subscribe.php:4
+msgid ""
+"Settings for the Subscribe Form. It can be displayed by using the "
+"<strong>[nature-subscribe-form]</strong> shortcode."
+msgstr ""
+
+#: admin/sections/subscribe.php:11
+msgid ""
+"choose your subscribe icon for this section <strong>[nature-subscribe-icon]</"
+"strong>."
+msgstr ""
+
+#: admin/sections/subscribe.php:31
+msgid "Success Message"
+msgstr ""
+
+#: admin/sections/subscribe.php:38
+msgid "Subscribers List"
+msgstr ""
+
+#: admin/sections/subscribe.php:44
+msgid "Use MailChimp?"
+msgstr ""
+
+#: admin/sections/subscribe.php:45
+msgid ""
+"Set to Yes if you want to use MailChimp to manage subscribers. If set to No "
+"the email addresses will be added to a simple text string."
+msgstr ""
+
+#: admin/sections/subscribe.php:52
+msgid "mailchimp details"
+msgstr ""
+
+#: admin/sections/subscribe.php:53
+msgid ""
+"\n"
+"\t\t\t\t\tFollow the steps below to get the form data.<br>\n"
+"\t\t\t\t\t1.Navigate to the Lists page.<br>\n"
+"\t\t\t\t\t2.Click the drop-down menu to the right of the Stats button for "
+"the list you want to work with, then select Signup forms.<br>\n"
+"\t\t\t\t\t3.Click Embedded forms. <br>\n"
+"\t\t\t\t\tData Values example = us0-123456789-00000000<br>\n"
+"\t\t\t\t\t<strong>123456789</strong> = is MailChimp User ID<br>\n"
+"\t\t\t\t\t<strong>00000000</strong> = is Mailchimp List ID<br>\n"
+"\t\t\t\t\t<strong>us0</strong> = is your Mailchimp server<br>\n"
+"\t\t\t\t\n"
+"\t\t\t\t"
+msgstr ""
+
+#: admin/sections/subscribe.php:71
+msgid "Mailchimp User Name"
+msgstr ""
+
+#: admin/sections/subscribe.php:78
+msgid "MailChimp User ID"
+msgstr ""
+
+#: admin/sections/subscribe.php:85
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: admin/sections/subscribe.php:92
+msgid "Mailchimp server"
+msgstr ""
+
+#: admin/sections/subscribe.php:93
+msgid "Choose your server"
+msgstr ""
+
+#: admin/sections/subscribe.php:128
+msgid "Social Settings"
+msgstr ""
+
+#: admin/sections/subscribe.php:129
+msgid "Here you can edit and sort the links displayed in the subscribe."
+msgstr ""
+
+#: admin/sections/subscribe.php:135
+msgid "Links"
+msgstr ""
+
+#: admin/sections/subscribe.php:136
+msgid ""
+"choose your subscribe  social icons for this section <strong>[nature-"
+"social]</strong>"
+msgstr ""
+
+#: admin/sections/team.php:3
+msgid "Team Settings"
+msgstr ""
+
+#: admin/sections/team.php:4
+msgid ""
+"This can be accessed by using the <strong>[nature-about-team]</strong> "
+"shortcode in your pages."
+msgstr ""
+
+#: admin/sections/team.php:15
+msgid "Team Boxes"
+msgstr ""
+
+#: admin/sections/team.php:17
+msgid "This is a title"
+msgstr ""
+
+#: admin/sections/team.php:18
+msgid "Description Here"
+msgstr ""
+
+#: admin/sections/team.php:19
+msgid "no need to fill"
+msgstr ""

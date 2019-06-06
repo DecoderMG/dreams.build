@@ -1,0 +1,11 @@
+= 05.01.2017 - Version 2.1 =
+* Fixed: Minor bug issue resolved
+* Update: Wordpress 4.7 compatible
+
+
+= 01.12.2016 - Version 2.0 =
+* New: Add Role manager for choose role to edit posts and pages and...
+* New: Add typography section
+* New: Add google fonts to section typography
+* Update: Font Awesome 4.7.0
+

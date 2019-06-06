@@ -1,0 +1,51 @@
+/*######################################*/
+/*Light version for the template */
+/*######################################*/
+.cover{
+	background-color: rgba(255,255,255,0.4);
+}
+.submit:after{
+	background:#333333;
+}
+
+.nav.bottom a:hover span,
+.nav.top a:hover span,
+.nav.left a:hover span,
+.nav.right a:hover span{
+	background-color: rgba(0,0,0,0.4);
+}
+body,h1,h2,h3,h4,a,input,
+#logo,
+.team h4,
+.countdown,
+.submit,
+.social-icon i,
+.nav.bottom a:hover span,
+.nav.top a:hover span,
+.nav.left a:hover span,
+.nav.right a:hover span
+{
+	color: #333333;
+}
+.description p span,input,textarea,.submit,
+.social-icon:after,
+.blogpost,
+.header h2:before{
+	border-color:#333333;
+}
+.countdown .four-column,
+input:hover, textarea:hover{
+	border-color:rgba(0,0,0,.5);
+}
+::-webkit-input-placeholder {color: rgba(0,0,0,0.8);}
+:-moz-placeholder {color: rgba(0,0,0,0.8);}
+::-moz-placeholder {color: rgba(0,0,0,0.8);}
+:-ms-input-placeholder {color: rgba(0,0,0,0.8);}
+.submit:hover{
+	color:#ffffff
+}
+.social-icon i {
+	box-shadow: 0px 0px 0px 2px #333333 inset;
+	-moz-box-shadow: 0px 0px 0px 2px #333333 inset;
+	-webkit-box-shadow: 0px 0px 0px 2px #333333 inset;
+}
