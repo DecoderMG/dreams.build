@@ -1,5 +1,5 @@
 rst2pdf
 Sphinx>=1.2b1
 guzzle_sphinx_theme>=0.3.0
-pillow>=9.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
 pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
